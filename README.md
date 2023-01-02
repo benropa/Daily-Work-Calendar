@@ -2,7 +2,7 @@
 
 ## Description
 
-In this project our class was tasked with building on starter code for a daily calendar in order to meet a certain set of criteria. Our goal was to create an application that allows a user to save events for each hour of the standard work day. The application runs in a browswer and utilizes HTML, CSS, JavaScript, and jQuery. We also utilized functions from Day.js.
+In this project our class was tasked with building on starter code for a daily calendar in order to meet a certain set of criteria. Our goal was to create an application that allows a user to save events for each hour of the standard work day. The application runs in a browser and utilizes HTML, CSS, JavaScript, and jQuery. We also utilized functions from Day.js.
 
 ## Screenshot of Application: 
 
